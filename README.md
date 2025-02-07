@@ -1,15 +1,17 @@
 # Amit-Testing-Project
-This project automates the testing of the Demoblaze website using Selenium WebDriver, Cucumber, and TestNG.
-Tools and Technologies Used
+This project automates the testing of the Demoblaze e-commerce website using Selenium WebDriver, Cucumber, and TestNG. It includes positive and negative test scenarios for user authentication, shopping cart functionality, and purchase processes.
 
-    Selenium WebDriver: For browser automation.
-    Cucumber: For Behavior-Driven Development (BDD) and writing test cases in Gherkin syntax.
-    TestNG: For test execution and reporting.
-    Extent Reports: For generating detailed test execution reports.
-    Maven: For project dependency management and build automation.
+#Tools and Technologies Used
+Java (JDK 22)
 
-Prerequisites
+Selenium WebDriver 4.20.0 - For browser automation
 
-    Java JDK 22
-    Maven 3.x
-    ChromeDriver
+Cucumber 7.18.1 - For behavior-driven development (BDD)
+
+TestNG 7.4.0 - For test execution and reporting
+
+ExtentReports 5.0.9 - For test reporting
+
+Maven - For dependency management and build automation
+
+Git & GitHub - For version control
