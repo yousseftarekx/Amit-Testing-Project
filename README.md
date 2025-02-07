@@ -19,4 +19,3 @@ This is a Selenium WebDriver automation project for testing the Demoblaze e-comm
 ## Cloning the Repository
 To clone this project from GitHub, run:
 ```sh
-git clone https://github.com/yousseftarekx/Demoblaze_Automation.git
