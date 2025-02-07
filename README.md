@@ -1,4 +1,4 @@
-# Demoblaze Automation Testing
+# Amit Demoblaze Website Automation Testing
 
 This is a Selenium WebDriver automation project for testing the Demoblaze e-commerce website. The project is implemented using Java, Cucumber, TestNG, and Extent Reports.
 
